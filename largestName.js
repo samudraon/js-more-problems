@@ -15,7 +15,7 @@ function reverseName(name1, name2) {
 }
 
 const result = reverseName('John', 'Alexis');
-// console.log(result);
+console.log(result);
 
 // optional way for reversing string
 
